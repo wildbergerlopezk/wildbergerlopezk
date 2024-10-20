@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi,🗿 I'm Kevin</h1>
 <h4 align="center">I am an independent developer and a student of computer engineering at the Polytechnic Faculty of the National University </h4>
-<h4 align="center"><a><img src="https://drive.google.com/drive/u/2/home"></a></h4>
 </div>
 <p align="center">
 <a href="https://www.youtube.com/@WildbergerBusiness" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@WildbergerBusiness"/></a>
