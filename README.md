@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi,🗿 I'm Kevin</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">I am an independent developer and a student of computer engineering at the Polytechnic Faculty of the National University </h4>
+<h4 align="center"><a><img src="https://drive.google.com/file/d/1YQehCMNRqkMUGX62vBlUSOBI-JHQpfsv/view?usp=drive_link"></a></h4>
 </div>
 <p align="center">
 <a href="https://www.youtube.com/@WildbergerBusiness" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@WildbergerBusiness"/></a>
@@ -8,10 +9,10 @@
 <a href = "mailto:businesswildberger@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 -----
-<h2>known technologies🙌</h2>
-  <p align="left">
+<h2 align=center>known technologies🙌</h2>
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github,html,js,nodejs,next.js,react=12" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,github,html,js,nodejs,nextjs,react,mysql,mongodb,=12" />
   </a>
 </p>
 -----
