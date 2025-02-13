@@ -11,7 +11,7 @@
 <h2 align=center>known technologies🙌</h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github,html,css,js,nodejs,express,react,typescript,python,mysql,discord,powershell,php,laravel,=12" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,html,css,js,nodejs,express,react,typescript,python,mysql,discord,powershell,php,laravel,=12" />
   </a>
 </p>
 -----
