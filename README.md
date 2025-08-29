@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=4A9960&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%26+Software+Engineer;Building+Digital+Solutions+for+Latin+America;ERP+%2B+AI+Systems+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=4A9960&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%26+Software+Engineer;)](https://git.io/typing-svg)
+
 
 **`Computer Engineering Student | Independent Developer | ERP Solutions Architect`**
 
@@ -24,7 +25,7 @@ const kevin = {
     location: "Paraguay 🇵🇾",
     currentFocus: "ERP + AI Systems Development",
     education: "Computer Engineering Student",
-    languages: ["Spanish", "English", "Portuguese"],
+    languages: ["Spanish", "English"],
     askMeAbout: ["Web Development", "System Architecture", "Business Intelligence", "AI Integration"],
     funFact: "I believe technology should bridge gaps, not create them"
 };
@@ -39,7 +40,6 @@ const kevin = {
 ### **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -55,7 +55,6 @@ const kevin = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### **Tools & Environment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -153,6 +152,3 @@ mindmap
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/wildbergerlopez/wildbergerlopez/output/snake.svg" alt="Snake animation" />
-</div>
